@@ -1,0 +1,23 @@
+This document will be solely to list out possible Libararies and functions to use. 
+
+The Application will consist of two layers
+  1 ) A windows Userform that can be run as an Exe that will allow the user to send messages to the OpenAI API 
+  2) The connection with the application and OpenAI 
+  
+  
+ This can later be exspanded on with saving messages and copy paste functions, could even do quick query things like regex or linux command queries(will explain) 
+
+
+
+For the Userform the following are options :
+
+Tkinter: Tkinter is a built-in Python library for creating graphical user interfaces (GUIs). It provides a variety of widgets and tools for creating windows, buttons, text fields, and other elements that you can use to build a user form. Tkinter is relatively easy to learn and use, and there are many tutorials and examples available online. You could use the Text widget in Tkinter to display and edit messages.
+
+PyQt: PyQt is a Python library for creating desktop applications using the Qt framework. It provides a large number of widgets and tools for building complex GUIs. PyQt is a bit more complex than Tkinter, but it offers more advanced features and greater flexibility. You could use the QTextEdit widget in PyQt to display and edit messages.
+
+PySide: PySide is another Python library for creating desktop applications using the Qt framework. It is very similar to PyQt in terms of functionality, but is licensed under the LGPL instead of the GPL. You could use the QTextEdit widget in PySide to display and edit messages.
+
+wxPython: wxPython is a Python library for creating desktop applications using the wxWidgets C++ library. It provides a wide range of widgets and tools for building GUIs, and is known for being easy to use and cross-platform. You could use the wx.TextCtrl widget in wxPython to display and edit messages.
+
+
+I am going to start by using Tkinter 
