@@ -12,3 +12,11 @@ Python Dependancies will grow so they will be added here for ease of use, but th
 
 https://git-scm.com/download/win
 
+
+Will require Requests Libary inside Python :
+
+pip install requests
+
+
+
+
