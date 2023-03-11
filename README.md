@@ -40,6 +40,10 @@ Example Change "prompt" value (Change string value of parameter <"What model is 
 
 The response of this script is currently just being printed in the run window within Pycharm see Example A .jpg as reference
 
+IMPORTANT
+
+Latest Build Semi FUnctional under Beta 
+
 
 
 
