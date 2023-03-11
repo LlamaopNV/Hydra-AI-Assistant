@@ -42,7 +42,7 @@ The response of this script is currently just being printed in the run window wi
 
 IMPORTANT
 
-Latest Build Semi FUnctional under Beta 
+Latest Build Semi FUnctional under Beta branch
 
 
 
